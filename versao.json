@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.7.0.apk",
-  "sha256": "2a132d02f7ff6bcf4729642eb232cfddbc8c598adaaf29541a16e89590c0db67",
+  "versionCode": 8,
+  "versionName": "1.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.8.0.apk",
+  "sha256": "a323b2427e597dab068c1a213b4432dddd7b4c782474dcd566afdca660535526",
   "size": 23387781,
-  "notes": "Versões agora no formato 1.7.0 e créditos de desenvolvimento no Perfil."
+  "notes": "Nova versão para navegador (inclui iPhone). No Android, nada muda no uso."
 }
