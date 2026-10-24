@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.8.0.apk",
-  "sha256": "a323b2427e597dab068c1a213b4432dddd7b4c782474dcd566afdca660535526",
-  "size": 23387781,
-  "notes": "Nova versão para navegador (inclui iPhone). No Android, nada muda no uso."
+  "versionCode": 9,
+  "versionName": "1.9.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.0.apk",
+  "sha256": "5735d02ecc4b581e18700bc115416662cb95b784004791d422753d0523987b42",
+  "size": 23468813,
+  "notes": "Animações dos exercícios com boneco novo: corpo com volume e músculos destacados."
 }
