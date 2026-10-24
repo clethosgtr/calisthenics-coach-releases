@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.10.0.apk",
-  "sha256": "1c78a79101b3615da3e6606735901d571ad35b413ce7f3daa78d6ee32d04e288",
+  "versionCode": 13,
+  "versionName": "1.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.11.0.apk",
+  "sha256": "eb7e42dfa1d7796c03bb531be2630977e652f15d2cb435f1af42650a5d25b49f",
   "size": 23534409,
-  "notes": "Layout adaptável: menu lateral e colunas em tablet, notebook e monitor; respeita o tamanho de letra do aparelho; celular deitado aproveita melhor a tela."
+  "notes": "Programas: deslize para os lados troca entre Programas, Meus treinos e Biblioteca. Biblioteca: deslize no exercício para ver o próximo e o anterior."
 }
