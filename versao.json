@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.11.0.apk",
-  "sha256": "eb7e42dfa1d7796c03bb531be2630977e652f15d2cb435f1af42650a5d25b49f",
-  "size": 23534409,
-  "notes": "Programas: deslize para os lados troca entre Programas, Meus treinos e Biblioteca. Biblioteca: deslize no exercício para ver o próximo e o anterior."
+  "versionCode": 14,
+  "versionName": "1.12.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.12.0.apk",
+  "sha256": "c1e942a4ad33fe62b90c735abffdf96519016042f26a849f0c824d994f3625a9",
+  "size": 23534497,
+  "notes": "Treinos personalizados com várias sessões (adicionar, renomear, excluir) e botões do editor de treino corrigidos."
 }
