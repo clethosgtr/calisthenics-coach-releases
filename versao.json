@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.0.apk",
-  "sha256": "5735d02ecc4b581e18700bc115416662cb95b784004791d422753d0523987b42",
-  "size": 23468813,
-  "notes": "Animações dos exercícios com boneco novo: corpo com volume e músculos destacados."
+  "versionCode": 10,
+  "versionName": "1.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.1.apk",
+  "sha256": "40db2606250cc6d3df840e267e60512f1f971a9e70aba8a81406b9f3143582d8",
+  "size": 23468857,
+  "notes": "Boneco sem cabelo e sem nariz; movimentos que giravam de forma estranha (como o gato-camelo) corrigidos."
 }
