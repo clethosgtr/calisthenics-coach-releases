@@ -1,9 +1,9 @@
 # Calisthenics Coach
 
-Aplicativo de calistenia, sem conta e com os dados guardados só no seu aparelho. Versão atual: **1.12.1**
+Aplicativo de calistenia, sem conta e com os dados guardados só no seu aparelho. Versão atual: **1.13.0**
 
 ## Android
-**[Baixar o instalador (APK)](https://github.com/clethosgtr/calisthenics-coach-releases/raw/main/apk/CalisthenicsCoach-1.12.1.apk)**
+**[Baixar o instalador (APK)](https://github.com/clethosgtr/calisthenics-coach-releases/raw/main/apk/CalisthenicsCoach-1.13.0.apk)**
 
 1. Toque no link pelo celular Android e baixe o arquivo.
 2. Abra o arquivo baixado. Se o Android pedir, permita a instalação de apps desta origem.

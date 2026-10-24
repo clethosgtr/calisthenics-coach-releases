@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.12.1",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.12.1.apk",
-  "sha256": "5a0df230ae5a4b8dea3a8ba899f9ea09dd29a804f4b5b6464c61209e7d730731",
+  "versionCode": 16,
+  "versionName": "1.13.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.13.0.apk",
+  "sha256": "fc3c71b7431a4d4b86c003aa6fa4b1706f817ffee9445eaf0ea20996fabaebbc",
   "size": 23534493,
-  "notes": "Excluir uma sessão de um treino personalizado não bagunça mais o histórico nem as marcações de concluído da agenda."
+  "notes": "Treino personalizado: o nome do treino e o nome da 1ª sessão agora são independentes. Evolução: o seletor Dia/Semana/Mês/Ano/Tudo não quebra mais em telas estreitas."
 }
