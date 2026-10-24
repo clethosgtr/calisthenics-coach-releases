@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.2.apk",
-  "sha256": "eadfafdaca46196545e9d98d5fe616cc41ab9c996ffe082053b3e1dfe5c65f48",
-  "size": 23468877,
-  "notes": "Cotovelos e joelhos que dobravam ao contrário corrigidos em 46 animações (barra fixa, flexões, remadas e outras)."
+  "versionCode": 12,
+  "versionName": "1.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.10.0.apk",
+  "sha256": "1c78a79101b3615da3e6606735901d571ad35b413ce7f3daa78d6ee32d04e288",
+  "size": 23534409,
+  "notes": "Layout adaptável: menu lateral e colunas em tablet, notebook e monitor; respeita o tamanho de letra do aparelho; celular deitado aproveita melhor a tela."
 }
