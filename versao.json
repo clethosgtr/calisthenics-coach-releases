@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.12.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.12.0.apk",
-  "sha256": "c1e942a4ad33fe62b90c735abffdf96519016042f26a849f0c824d994f3625a9",
-  "size": 23534497,
-  "notes": "Treinos personalizados com várias sessões (adicionar, renomear, excluir) e botões do editor de treino corrigidos."
+  "versionCode": 15,
+  "versionName": "1.12.1",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.12.1.apk",
+  "sha256": "5a0df230ae5a4b8dea3a8ba899f9ea09dd29a804f4b5b6464c61209e7d730731",
+  "size": 23534493,
+  "notes": "Excluir uma sessão de um treino personalizado não bagunça mais o histórico nem as marcações de concluído da agenda."
 }
