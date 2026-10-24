@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.1.apk",
-  "sha256": "40db2606250cc6d3df840e267e60512f1f971a9e70aba8a81406b9f3143582d8",
-  "size": 23468857,
-  "notes": "Boneco sem cabelo e sem nariz; movimentos que giravam de forma estranha (como o gato-camelo) corrigidos."
+  "versionCode": 11,
+  "versionName": "1.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.9.2.apk",
+  "sha256": "eadfafdaca46196545e9d98d5fe616cc41ab9c996ffe082053b3e1dfe5c65f48",
+  "size": 23468877,
+  "notes": "Cotovelos e joelhos que dobravam ao contrário corrigidos em 46 animações (barra fixa, flexões, remadas e outras)."
 }
