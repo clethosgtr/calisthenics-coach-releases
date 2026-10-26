@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.13.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.13.0.apk",
-  "sha256": "fc3c71b7431a4d4b86c003aa6fa4b1706f817ffee9445eaf0ea20996fabaebbc",
+  "versionCode": 17,
+  "versionName": "1.14.0",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.14.0.apk",
+  "sha256": "722c75e16267f2223d2bdcf5b01844c7d50c02b687e2645a837b19aecd4f8ae1",
   "size": 23534493,
-  "notes": "Treino personalizado: o nome do treino e o nome da 1ª sessão agora são independentes. Evolução: o seletor Dia/Semana/Mês/Ano/Tudo não quebra mais em telas estreitas."
+  "notes": "Ao criar ou editar um treino, cada exercício, aquecimento ou alongamento pode ser feito por repetições ou por tempo. Também corrigi o cabeçalho do dia na Agenda em telas estreitas."
 }
