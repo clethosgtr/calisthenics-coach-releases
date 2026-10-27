@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.14.0",
-  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.14.0.apk",
-  "sha256": "722c75e16267f2223d2bdcf5b01844c7d50c02b687e2645a837b19aecd4f8ae1",
+  "versionCode": 18,
+  "versionName": "1.14.1",
+  "apkUrl": "https://raw.githubusercontent.com/clethosgtr/calisthenics-coach-releases/main/apk/CalisthenicsCoach-1.14.1.apk",
+  "sha256": "3f15a7c80e4adf0cb3a679d333c64e2b419a7a093698c484ca71e27313b5c4e7",
   "size": 23534493,
-  "notes": "Ao criar ou editar um treino, cada exercício, aquecimento ou alongamento pode ser feito por repetições ou por tempo. Também corrigi o cabeçalho do dia na Agenda em telas estreitas."
+  "notes": "Alertas sonoros corrigidos para navegadores, principalmente Safari/iPhone: o som é liberado ao tocar na tela e volta sozinho depois de bloquear a tela ou trocar de aba."
 }
